@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# The Cortex Command Community Project      
+Welcome to the home of Data Realms' first independently developed game, Cortex Command! It features real-time tactical battles, and also a strategic, turn-based metagame on top, with support for up to four players in split-screen. It won two awards in the Independent Games Festival 2009.      
+Dynamic 2D pixel graphics coupled with an extremely detailed physics engine makes for replayable and emergent gameplay. Scroll down for more information about the concept, story, and features of this labor of love!
 
-You can use the [editor on GitHub](https://github.com/SirJoshi/Cortex-Command-Community.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to the Cortex Command Community Project      
+The cortex command comunity project is a fan lead project to completly revamp data realm's Cortex command, and to complete the original visison of the game. while it is is on a modified version of the original engine, the gameplay will be radicely improved, based off of our resident scriptwriter, cave (todo) and android arts(arne)'s original concept art and ideas. currently we have several goals to complete as towards the game: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- placeholder
+- placeholder
+- placeholder
 
-### Markdown
+Additionally, CCCP supports Multiplayer over Lan, as a recent addition to the engine thanks to Weegee of datarealms having recently completed network play, wtich was once considered impossible, a 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirJoshi/Cortex-Command-Community.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
