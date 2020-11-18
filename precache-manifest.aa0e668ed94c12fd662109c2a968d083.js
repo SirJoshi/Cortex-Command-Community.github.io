@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3baac5c51016dd44427934f0ec30a67a",
+    "revision": "7053aeb26093568b744e3e6d1639039b",
     "url": "/Cortex-Command-Community.github.io/index.html"
   },
   {
-    "revision": "a35d0bc960ae45b14d07",
+    "revision": "6ebba47efe1b7a96ac86",
     "url": "/Cortex-Command-Community.github.io/static/css/main.f2957721.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cortex-Command-Community.github.io/static/js/2.9c694d9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a35d0bc960ae45b14d07",
-    "url": "/Cortex-Command-Community.github.io/static/js/main.52a099f7.chunk.js"
+    "revision": "6ebba47efe1b7a96ac86",
+    "url": "/Cortex-Command-Community.github.io/static/js/main.e814a1bb.chunk.js"
   },
   {
     "revision": "e78142dbbf37a7d1395a",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cortex-Command-Community.github.io/precache-manifest.d9c181369c07a0393d1b033cecf2295b.js"
+  "/Cortex-Command-Community.github.io/precache-manifest.aa0e668ed94c12fd662109c2a968d083.js"
 );
 
 self.addEventListener('message', (event) => {
