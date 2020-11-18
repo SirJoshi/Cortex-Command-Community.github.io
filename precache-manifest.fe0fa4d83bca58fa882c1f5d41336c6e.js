@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7053aeb26093568b744e3e6d1639039b",
+    "revision": "590daeff7a82cda973957a99da7e3f01",
     "url": "/Cortex-Command-Community.github.io/index.html"
   },
   {
